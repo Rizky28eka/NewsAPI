@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    //ini untuk appBar
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/app_bar"
         android:layout_width="match_parent"
@@ -24,6 +25,7 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
+    //ini ScrollView
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
